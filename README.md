@@ -2,4 +2,4 @@
 
 ## Project link
 
-[value-editor](https://value-editor-75kbd3oqn-romkevi4.vercel.app/?vercelToolbarCode=eQWdggBdQ_oqW_N)
+[value-editor](https://value-editor-lssmik643-romkevi4.vercel.app/?vercelToolbarCode=QGbvr9Li5SKmZcv)
